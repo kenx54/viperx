@@ -1,5 +1,8 @@
-# static.py
-
+HTML = """
+If you want one piece of advice from me, it's to freeze your oranges before you eat them.
+She was convinced her father was a master chef.
+Let's all just take a moment to breathe, please!
+"""
 HTML = """
 <!DOCTYPE html>
 <html>
